@@ -4,6 +4,15 @@
   </a>
 </div>
 
+#
+
+<p align="center">Olá, eu me chamo Otávio e sou do interior de Sergipe. Comecei a estudar Java há um tempo e estou sempre buscando aprender coisas novas e me aprofundar na linguagem. Não pretendo parar por aí: em breve quero explorar outras linguagens para me tornar cada vez mais ativo no mercado e, assim, iniciar minha jornada nessa área que tanto amo.
+  
+#
+
+<img align="right" alt="" height="190px" src="./src/start.gif">
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiik-br/fiik-br/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiik-br/fiik-br/output/github-contribution-grid-snake-dark.svg">
