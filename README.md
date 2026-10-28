@@ -10,7 +10,14 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./scr/start.gif">
+<img align="right" alt="" height="190px" scr="./scr/start.gif">
+
+<h3 align="left">Connection!</h3>
+
+<!--[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:user)-->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/otávio-santos-lisboa-695604447)
+<!--[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](user)-->
+
 
 <h3 align="left">My Stack ~</h3>
 
