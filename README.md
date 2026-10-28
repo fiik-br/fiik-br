@@ -10,7 +10,7 @@
   
 #
 
-<img align="right" alt="" height="190px" scr="./scr/start.gif">
+<img align="right" alt="" height="190px" src="./scr/start.gif">
 
 <h3 align="left">Connection!</h3>
 
