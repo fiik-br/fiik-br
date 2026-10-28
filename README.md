@@ -10,7 +10,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/start.gif">
+<img align="right" alt="" height="190px" src="./scr/start.gif">
 
 <h3 align="left">My Stack ~</h3>
 
